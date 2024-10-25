@@ -1,2 +1,2 @@
 mypy==1.2.3
-pylint
+pylint==1.2.4
